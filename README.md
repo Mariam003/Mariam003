@@ -3,7 +3,7 @@
 
 # 👋 About Me
 
-I am a Data Analyst with who makes raw data simple and easy to understand and I am always looking for new opportunities to grow and contribute in the ever-evolving world of data analysis.
+I am a Data Analyst who makes raw data simple and easy to understand and I am always looking for new opportunities to grow and contribute in the ever-evolving world of data analysis.
 
 ---
 
