@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there I am Mariam👋
+
+I am a Data Analystr with passion for transforming raw data into clear and actionable insights and I am always looking for new opportunities to grow and contribute in the ever-evolving world of data analysis.
 
 <!--
 **Mariam003/Mariam003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
