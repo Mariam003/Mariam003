@@ -1,4 +1,3 @@
-## Hi there I am Mariam👋
 
 <h1 align="center">Turning raw data into clear and actionable insights </h1>
 
