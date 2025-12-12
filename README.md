@@ -13,6 +13,10 @@ I am a Data Analyst who makes raw data simple and easy to understand and I am al
 If you're interested in learning more about me or my work, feel free to reach out
 But here are some of my projects so far:
 
+### Adidas product Sales
+- Description: This project aims to analyze Adidas' product sales performance across products, sales channels, regions, retailer patterns, seasons, and profitability in order to identify the key drivers of revenue, profit, and growth opportunities.
+- Link: 
+
 ### Human Resources Analysis
 - Description: This project presents a detailed analysis of employee-related metrics based on the company's Human Resources Dashboard. It includes statistics on workforce activity, departmental distribution, state-level hiring, employee demographics, performance ratings, educational qualifications, and income patterns. The visualizations provide a comprehensive view of the HR landscape, enabling data-driven decision-making for workforce planning and management.   
 - Link: https://mariam.vercel.app/HR.html
