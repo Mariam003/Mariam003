@@ -19,7 +19,7 @@ But here are some of my projects so far:
 
 ### Human Resources Analysis
 - Description: This project presents a detailed analysis of employee-related metrics based on the company's Human Resources Dashboard. It includes statistics on workforce activity, departmental distribution, state-level hiring, employee demographics, performance ratings, educational qualifications, and income patterns. The visualizations provide a comprehensive view of the HR landscape, enabling data-driven decision-making for workforce planning and management.   
-- Link: https://mariam.vercel.app/HR.html
+- Link: https://github.com/Mariam003/Human-Resources-Analysis.git
 
 ### Sales Analysis
 - Description: The sales project provides insights into the operations of a consumer product selling company, detailing all transactions throughout the year 2014. The analysis includes sales trends, transaction amounts, regional sales distribution, top-performing sales representatives, and more.
@@ -36,4 +36,4 @@ But here are some of my projects so far:
 
 # 🎯 Fun Fact
 
-I love reading books, watching k-dramas and sometimes scribble
+I love reading books, watching k-dramas and sometimes I scribble
