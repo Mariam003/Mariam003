@@ -2,9 +2,7 @@
 <h1 align="center">Turning raw data into clear and actionable insights </h1>
 
 # 👋 About Me
-
-I am a Data Analyst who makes raw data simple and easy to understand and I am always looking for new opportunities to grow and contribute in the ever-evolving world of data analysis.
-
+Hello! I’m Mariam Adepoju and I am excited to welcome you to my portfolio website. As a data analyst, with passion for transforming raw data into clear and actionable insights, I have worked on several projects which have contributed to sharpening my skills in Excel, SQL, Python, Power BI, Tableau, and data visualization. My journey in data has been driven by the fascination of how information can shape business strategies and drive informed decisions. Whether uncovering patterns in large datasets or presenting insights in a clear and visually compelling manner, I’m dedicated to making data accessible and actionable. With my analytical skills, attention to detail, and drive to uncover the hidden truths in data, I am eager to continue making a significant impact. I am always looking for new opportunities to grow and contribute in the ever-evolving world of data analysis.
 ---
 
 
@@ -33,7 +31,7 @@ But here are some of my projects so far:
 - Description: This project is all about data Cleaning, exploration and sale forecasting
 - Link: https://github.com/Mariam003/Urban-Grocers
 
-### DataAnalytics-Assessment Project
+### Data Analytics-Assessment Project
 - Description: This project applies SQL queries to analyze a customer transaction dataset, focusing on drawing actionable business insights from multiple tables by joining and aggregating data to answer specific analytical questions.
 - Link: https://github.com/Mariam003/DataAnalytics-Assessment
 
