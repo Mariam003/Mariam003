@@ -21,6 +21,22 @@ But here are some of my projects so far:
 - Description: This project presents a detailed analysis of employee-related metrics based on the company's Human Resources Dashboard. It includes statistics on workforce activity, departmental distribution, state-level hiring, employee demographics, performance ratings, educational qualifications, and income patterns. The visualizations provide a comprehensive view of the HR landscape, enabling data-driven decision-making for workforce planning and management.   
 - Link: https://github.com/Mariam003/Human-Resources-Analysis.git
 
+### Race Dataset
+- Description: This project analyzes a large historical race dataset spanning multiple events and athletes, focusing primarily on data cleaning, preparation, and feature engineering. Using Python, the raw dataset was cleaned by handling missing values, standardizing text fields, converting dates and numeric columns to appropriate formats, and creating new variables such as athlete age and average speed.
+- Link: https://github.com/Mariam003/Race-Dataset
+
+### Airbnb Data
+- Description: This entirety of this project aims to analyze the Airbnb listing data to uncover patterns, distributions, and relationships between different variables. It involves data cleaning, analysis, and data visualization to derive insights.
+- Link: https://github.com/Mariam003/Airbnb-Data
+
+### Urban-Grocers
+- Description: This project is all about data Cleaning, exploration and sale forecasting
+- Link: https://github.com/Mariam003/Urban-Grocers
+
+### DataAnalytics-Assessment Project
+- Description: This project applies SQL queries to analyze a customer transaction dataset, focusing on drawing actionable business insights from multiple tables by joining and aggregating data to answer specific analytical questions.
+- Link: https://github.com/Mariam003/DataAnalytics-Assessment
+
 ### Sales Analysis
 - Description: The sales project provides insights into the operations of a consumer product selling company, detailing all transactions throughout the year 2014. The analysis includes sales trends, transaction amounts, regional sales distribution, top-performing sales representatives, and more.
 - Link: https://mariam.vercel.app/kitchen.html
