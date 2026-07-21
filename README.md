@@ -12,6 +12,10 @@ Hello! I’m Mariam Adepoju and I am excited to welcome you to my portfolio webs
 
 Here are some of my projects so far:
 
+### 🏛️ V&A Museum Analysis
+- Description: This project aims to analyze V&A commercial performance, development and fundraiser and customer feedback. 
+- Link: https://github.com/Mariam003/VA-Museum-Analysis
+
 ### 👞 Adidas product Sales
 - Description: This project aims to analyze Adidas' product sales performance across products, sales channels, regions, retailer patterns, seasons, and profitability in order to identify the key drivers of revenue, profit, and growth opportunities.
 - Link: https://github.com/Mariam003/Adidas-Product-Sales
